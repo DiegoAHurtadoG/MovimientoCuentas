@@ -1,3 +1,7 @@
+CREATE DATABASE test;
+
+USE test;
+
 -- ----------------------------
 -- Sequence structure for movimiento_id_seq
 -- ----------------------------
